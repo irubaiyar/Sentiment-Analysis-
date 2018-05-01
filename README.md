@@ -1,4 +1,4 @@
-# Sentiment-Analysis-
+# Sentiment-Analysis
 Used Python to do sentiment analysis from social media posts and wrote python scripts mapper and reducer to calculate final index score
 “Does the media reflect public mood or form it? What about social media?”
 To fully answer the above question is complex, however, we can use python to perform sentiment analysis (SA) to understand the whether stories have a positive or negative spin.
